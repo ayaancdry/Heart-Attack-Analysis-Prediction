@@ -2,6 +2,7 @@
 
 This project focuses on building a **Machine Learning (ML) model** to predict how prone a person is to a heart attack based on various health and lifestyle indicators.  
 The project was developed as part of the course **Introduction to Machine Learning (CSL2010)**.
+The final implementation can be viewed in `heart_attack_analysis_and_prediction.ipynb` file within the repository. 
 
 ---
 
